@@ -27,3 +27,4 @@ dist/
 .claude/
 .codex/
 .gemini/
+.worktrees/
